@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+
 # 💫 About Me:
 🎓 I’m currently an undergraduate in BSc (Hons) Software Engineering Degree.<br><br>📚 I'm Undergraduate University of Kelaniya<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>📫 How to reach me: dlravindukavinda@gmail.com
 
