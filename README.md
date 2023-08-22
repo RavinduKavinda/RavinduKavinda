@@ -18,9 +18,23 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🎓 I’m currently an undergraduate in BSc (Hons) Software Engineering Degree.<br><br>📚 I'm Undergraduate University of Kelaniya<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>📫 How to reach me: dlravindukavinda@gmail.com
 
-
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/demon0418) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RavinduKavinda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ravindukavinda) 
+<br clear="both">
+
+<div align="center">
+  <a href="dlravindukavinda@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-kavinda-3ba1111a1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@ravindukavinda" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="discordapp.com/users/818484480116785172" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 <div align="left">
